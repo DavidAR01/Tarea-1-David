@@ -11,6 +11,7 @@ Como usuario no sólo puedes descargar la aplicación,
 sino también entrar a su perfil para leer sobre ella o colaborar con su desarrollo.
 
 **Copilot** es un sistema de inteligencia artificial creado por **Microsoft**.
+![Test Image 1](img/capturamicrosoft.png)
 Es lo que se llama un *sistema conversacional*,
 lo que quiere decir que la manera de controlarlo e interactuar con esta IA es a través de un chat.
 
@@ -32,6 +33,7 @@ lo que quiere decir que la manera de controlarlo e interactuar con esta IA es a 
 6. Elegir en el menu desplegable la cuenta de correo que quieras asignar como principal.
 
 
+**A continuación adjunto foto de los commits:**
+![Test Image 1](img/fotocommits.png)
 
-
-
+## FIN
